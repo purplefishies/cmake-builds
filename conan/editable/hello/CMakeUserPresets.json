@@ -1,0 +1,9 @@
+{
+    "version": 4,
+    "include": [
+        "/home/jimi_damon/Downloads/examples/features/editable/cmake/hello/build/generators/CMakePresets.json"
+    ],
+    "vendor": {
+        "conan": {}
+    }
+}

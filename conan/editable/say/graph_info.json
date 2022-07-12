@@ -1,0 +1,18 @@
+{
+ "options": [
+  [
+   "fPIC",
+   "True"
+  ],
+  [
+   "shared",
+   "False"
+  ]
+ ],
+ "root": {
+  "name": "say",
+  "version": "0.1",
+  "user": "user",
+  "channel": "channel"
+ }
+}
